@@ -1,14 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C# and Database\\Files\\Course 18 Connection\\Contact_folder\\ContactsWinFormSolution\\Contacts\\",
+  "WorkspaceRootPath": "C:\\Users\\Abdullah\\MyGithub\\Contacts\\Contacts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7C0308CB-085A-4B96-A7D3-40BB528325E6}|ContactsPresentationLayer.csproj|D:\\C# and Database\\Files\\Course 18 Connection\\Contact_folder\\ContactsWinFormSolution\\Contacts\\frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C0308CB-085A-4B96-A7D3-40BB528325E6}|ContactsPresentationLayer.csproj|solutionrelative:frmlistcontacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C0308CB-085A-4B96-A7D3-40BB528325E6}|ContactsPresentationLayer.csproj|d:\\c# and database\\files\\course 18 connection\\contact_folder\\contactswinformsolution\\contacts\\frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C0308CB-085A-4B96-A7D3-40BB528325E6}|ContactsPresentationLayer.csproj|solutionrelative:frmaddeditcontact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DCCC4184-857C-4F65-88B3-8E1CCEA8B9E7}|..\\ContactsDataAccessLayer\\ContactsDataAccessLayer.csproj|c:\\users\\abdullah\\mygithub\\contacts\\contactsdataaccesslayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +13,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,32 +24,21 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "frmAddEditContact.cs [Design]",
-              "DocumentMoniker": "D:\\C# and Database\\Files\\Course 18 Connection\\Contact_folder\\ContactsWinFormSolution\\Contacts\\frmAddEditContact.cs",
-              "RelativeDocumentMoniker": "frmAddEditContact.cs",
-              "ToolTip": "D:\\C# and Database\\Files\\Course 18 Connection\\Contact_folder\\ContactsWinFormSolution\\Contacts\\frmAddEditContact.cs [Design]",
-              "RelativeToolTip": "frmAddEditContact.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T10:49:03.913Z",
-              "EditorCaption": " [Design]"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "frmListContacts.cs [Design]",
-              "DocumentMoniker": "D:\\C# and Database\\Files\\Course 18 Connection\\Contact_folder\\ContactsWinFormSolution\\Contacts\\frmListContacts.cs",
-              "RelativeDocumentMoniker": "frmListContacts.cs",
-              "ToolTip": "D:\\C# and Database\\Files\\Course 18 Connection\\Contact_folder\\ContactsWinFormSolution\\Contacts\\frmListContacts.cs [Design]",
-              "RelativeToolTip": "frmListContacts.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-03T05:16:36.409Z",
-              "EditorCaption": " [Design]"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\MyGithub\\Contacts\\ContactsDataAccessLayer\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ContactsDataAccessLayer\\appsettings.json",
+              "ToolTip": "C:\\Users\\Abdullah\\MyGithub\\Contacts\\ContactsDataAccessLayer\\appsettings.json",
+              "RelativeToolTip": "..\\ContactsDataAccessLayer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-30T13:27:08.775Z",
+              "EditorCaption": ""
             }
           ]
         }

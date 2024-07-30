@@ -1,11 +1,13 @@
-﻿using System;
+﻿using Microsoft.Extensions.Configuration;
+using System;
 
 namespace ContactsDataAccessLayer
 {
     static class clsDataAccessSettings
     {
-        public static string ConnectionString = "Server=.;Database=ContactsDB;User Id=sa;Password=sa123456;";
-       
-
+        public static string ConnectionString = new ConfigurationBuilder()
+                        .AddJsonFile("appsettings.json")
+                        .Build()
+                        .GetSection("constr").Value;
     }
 }
